@@ -1,0 +1,13 @@
+//num,idk,minxp,maxxp,overhead,idk,icon,xp,idk,idk,idk,idk,idk,idk,scoreboard,idk,idk
+0,Newbie,0,0,CJ_NEWBIE,CJ_NEWBIE_FULL,rank_0,1,;,;,;,;,;,1,Newbie,;,CJ_NEWBIE
+1,Novice,-30,-10,CJ_NOVICE,CJ_NOVICE_FULL,rank_1,300000,;,;,;,;,;,22,Novice,;,CJ_NOVICE
+2,Amateur,-30,-10,CJ_AMATEUR,CJ_AMATEUR_FULL,rank_2,100000,;,;,;,;,;,20,Amateur,;,CJ_AMATEUR
+3,Regular,-30,-10,CJ_REGULAR,CJ_REGULAR_FULL,rank_3,200000,;,;,;,;,;,21,Regular,;,CJ_REGULAR
+4,Adept,-30,-10,CJ_ADEPT,CJ_ADEPT_FULL,rank_4,300000,;,;,;,;,;,22,Adept,;,CJ_ADEPT
+5,Expert,-30,-10,CJ_EXPERT,CJ_EXPERT_FULL,rank_5,300000,;,;,;,;,;,22,Expert,;,CJ_EXPERT
+6,Veteran,-30,-10,CJ_VETERAN,CJ_VETERAN_FULL,rank_6,300000,;,;,;,;,;,22,Veteran,;,CJ_VETERAN
+7,Donator,-30,-10,CJ_DONATOR,CJ_DONATOR_FULL,rank_prestige9,300000,;,;,;,;,;,22,Donator,;,CJ_DONATOR
+8,Member,-30,-10,CJ_MEMBER,CJ_MEMBER_FULL,rank_member,300000,;,;,;,;,;,22,Member,;,CJ_MEMBER
+9,Admin,-30,-10,CJ_ADMIN,CJ_ADMIN_FULL,rank_leader,300000,;,;,;,;,;,22,Admin,;,CJ_ADMIN
+10,Leader,0,0,CJ_LEADER,CJ_LEADER_FULL,rank_leader,1,;,;,;,;,;,22,Leader,;,CJ_LEADER
+maxrank,7,,,,,,,,,,,,,,,

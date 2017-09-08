@@ -1,0 +1,22 @@
+{
+    loadMenu { "ui_mp/connect.menu" }
+    loadMenu { "ui_mp/controls_multi.menu" }
+    loadMenu { "ui_mp/main.menu" }
+    loadMenu { "ui_mp/main_text.menu" }
+    loadMenu { "ui_mp/options_multi.menu" }
+    loadMenu { "ui_mp/quickmessage.menu" }
+    loadMenu { "ui_mp/scorebars.menu" }
+    loadMenu { "ui_mp/compass_old.menu" }
+    loadMenu { "ui_mp/gamemessages.menu" }
+    loadMenu { "ui_mp/boldgamemessages.menu" }
+    loadMenu { "ui_mp/weaponinfo.menu" }
+    loadMenu { "ui_mp/xpbar.menu" }
+    loadMenu { "ui_mp/low health.menu" }
+    loadMenu { "ui_mp/dpad.menu" }
+    loadMenu { "ui_mp/amitalking.menu" }
+    loadMenu { "ui_mp/talkers.menu" }
+    loadMenu { "ui_mp/scorebar.menu" }
+    loadMenu { "ui_mp/holdbreathhint.menu" }
+    loadMenu { "ui_mp/auconfirm.menu" }
+    loadMenu { "ui_mp/error_popmenu.menu" }
+}
